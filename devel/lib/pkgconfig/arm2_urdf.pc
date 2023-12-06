@@ -1,0 +1,8 @@
+prefix=/home/antwoor/moving_ws/devel
+
+Name: arm2_urdf
+Description: Description of arm2_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

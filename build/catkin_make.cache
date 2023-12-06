@@ -1,0 +1,2 @@
+arm2_urdf:robot_arm_urdf
+-DCATKIN_DEVEL_PREFIX=/home/antwoor/moving_ws/devel -DCMAKE_INSTALL_PREFIX=/home/antwoor/moving_ws/install -G Unix Makefiles
